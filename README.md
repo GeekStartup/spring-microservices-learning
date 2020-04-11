@@ -25,4 +25,7 @@
 
 ## Installing Rabbit MQ on MAC
 https://www.rabbitmq.com/install-homebrew.html
-
+###### Starting Rabbit MQ Server
+/usr/local/Cellar/rabbitmq/3.8.3/sbin/rabbitmq-server
+###### Rabbit MQ Dashboard
+http://localhost:15672/
