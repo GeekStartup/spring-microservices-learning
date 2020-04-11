@@ -22,6 +22,7 @@
 | Currency Exchange Service | 👉http://localhost:8000/currency-exchange/from/EUR/to/INR 👉http://localhost:8001/currency-exchange/from/USD/to/INR|
 | Eureka | 👉http://localhost:8761/|
 | Zuul - Currency Exchange & Exchange Services | 👉http://localhost:8765/currency-exchange-service/currency-exchange/from/EUR/to/INR 👉http://localhost:8765/currency-conversion-service/currency-converter-feign/from/USD/to/INR/quantity/10|
+|Fault Tolerance Example|👉http://localhost:8080/fault-tolerance-example|
 
 ## Installing Rabbit MQ on MAC
 https://www.rabbitmq.com/install-homebrew.html
