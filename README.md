@@ -1,6 +1,4 @@
-# spring-microservices-learning
-Spring Microservices using Spring Cloud
-
+#Spring Microservices using Spring Cloud
 
 Application	Ports Used
 | Application                       | Ports           |
